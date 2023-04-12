@@ -1,3 +1,3 @@
 # practice
 
-This is for git fetch command
+This is for git pull command.
